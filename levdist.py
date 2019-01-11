@@ -1,3 +1,7 @@
+# Anthony Vicario
+# Second Language Acquisition Lab
+# https://slal.commons.gc.cuny.edu/
+
 import argparse
 from pandas import *
 import eng_to_ipa as ipa
